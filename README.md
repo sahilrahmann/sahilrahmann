@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 
 
 ### GitHub Stats
-<a href="https://github.com/sahilrahmann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrahmann&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maxx's Programming Language Stats" />
-</a>
 
-<a href="https://github.com/sahilrahmann">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilrahmann&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maxx's GitHub Stats" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrahmann&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilrahmann&show_icons=true&theme=dark)
